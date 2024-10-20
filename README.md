@@ -1,12 +1,12 @@
 
 Interactive-Data-Dashboard
 
-Playing with recharts.
-
 Guest login:
 
 username: Guest
 
 password: 1234 
 
-<img width="1512" alt="Screenshot 2023-11-20 at 4 49 33 PM" src="https://github.com/Hardiegogo/analytics-dashboard/assets/51075671/8307eac7-99f6-434d-bf1f-38158aa2671a">
+vercer Link - https://interactive-data-dashboard-rho.vercel.app/
+
+![Screenshot (100)](https://github.com/user-attachments/assets/5395257b-99bc-4aef-9753-d8c7318d0639)
