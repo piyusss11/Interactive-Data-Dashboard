@@ -1,5 +1,5 @@
 
-# Analytics-dashboard
+Interactive-Data-Dashboard
 
 Playing with recharts.
 
